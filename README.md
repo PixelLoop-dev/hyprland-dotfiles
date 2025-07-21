@@ -1,6 +1,10 @@
-<h1 align="center">❄️ My Hyprland Rice ❄️</h1>
+<!--<h1 align="center">❄️ Katsuro rice ❄️</h1>
 
-<h1 align="left"> ☁️ About</h1> 
+<div align="center">
+ <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge" />
+</div>-->
+
+<h1 align="left"> ☁️ My epic Hyprland rice</h1> 
 <img src="preview/4.png" alt="rice" align="right" width="500px">
 
 </br>
