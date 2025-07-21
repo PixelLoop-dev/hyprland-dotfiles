@@ -27,7 +27,16 @@ window#waybar {
     transition: 0.3s;
 }
 
+#workspaces button {
+    color: #b1c7fc;
+    font-weight: bold;
+    transition: 0.3s;
+}
 
+#workspaces button:hover {
+    background: transparent;
+    color: #8595b8;
+}
 
 #custom-launcher {
     padding-left: 12px;
