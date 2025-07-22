@@ -1,0 +1,9 @@
+{
+    "workbench.colorTheme": "Tokyo Night",
+    "editor.fontSize": 15,
+    "files.autoSave": "afterDelay",
+    "explorer.confirmDelete": false,
+    "explorer.confirmPasteNative": false,
+    "editor.fontFamily": "'JetBrains Mono NL Medium', 'JetbrainsMono Nerd Font'",
+    "security.workspace.trust.untrustedFiles": "open"
+}
