@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo Installing pacman packages
-sudo pacman -S --needed git kitty firefox wofi obs-studio fish rofi steam nwg-look nvim fastfetch spotify-launcher pavucontrol btop cava swww telegram-desktop openrgb nautilus wine visual-studio-code-bin  hyprshot hyprpicker
+sudo pacman -S --needed --noconfirm git kitty firefox wofi obs-studio fish rofi steam nwg-look nvim fastfetch spotify-launcher pavucontrol btop cava swww telegram-desktop openrgb nautilus wine hyprshot hyprpicker
 
 
 echo Installing yay
@@ -11,11 +11,11 @@ cd .. && rm -rf yay
 
 
 echo Installing yay packages
-yay -S vesktop nekoray waypaper waybar-cava 
+yay -S --needed --noconfirm vesktop nekoray waypaper waybar-cava visual-studio-code-bin
 
 
 echo Installing fonts
-sudo pacman -S --needed noto-fonts noto-fonts-cjk noto-fonts-emoji ttf-dejavu ttf-liberation ttf-droid ttf-jetbrains-mono ttf-jetbrains-mono-nerd ttf-font-awesome
+sudo pacman -S --needed --noconfirm noto-fonts noto-fonts-cjk noto-fonts-emoji ttf-dejavu ttf-liberation ttf-droid ttf-jetbrains-mono ttf-jetbrains-mono-nerd ttf-font-awesome
 
 
 echo Copying configs
