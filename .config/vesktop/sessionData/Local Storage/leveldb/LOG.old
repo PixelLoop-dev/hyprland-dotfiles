@@ -1,0 +1,21 @@
+2025/10/17-21:15:04.475 723 Reusing MANIFEST /home/pixel_loop/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
+2025/10/17-21:15:04.481 723 Recovering log #446
+2025/10/17-21:15:04.481 723 Reusing old log /home/pixel_loop/.config/vesktop/sessionData/Local Storage/leveldb/000446.log 
+2025/10/17-21:17:04.685 724 Level-0 table #450: started
+2025/10/17-21:17:04.697 724 Level-0 table #450: 95797 bytes OK
+2025/10/17-21:17:04.699 724 Delete type=0 #446
+2025/10/17-21:17:04.699 724 Compacting 4@0 + 1@1 files
+2025/10/17-21:17:04.707 724 Generated table #451@0: 62 keys, 160320 bytes
+2025/10/17-21:17:04.708 724 Compacted 4@0 + 1@1 files => 160320 bytes
+2025/10/17-21:17:04.709 724 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/10/17-21:17:04.710 724 Delete type=2 #443
+2025/10/17-21:17:04.710 724 Delete type=2 #450
+2025/10/17-21:17:04.710 724 Delete type=2 #447
+2025/10/17-21:17:04.710 724 Delete type=2 #445
+2025/10/17-21:17:04.710 724 Delete type=2 #441
+2025/10/17-21:25:04.685 724 Level-0 table #453: started
+2025/10/17-21:25:04.695 724 Level-0 table #453: 32726 bytes OK
+2025/10/17-21:25:04.697 724 Delete type=0 #449
+2025/10/17-21:32:04.685 724 Level-0 table #455: started
+2025/10/17-21:32:04.695 724 Level-0 table #455: 28818 bytes OK
+2025/10/17-21:32:04.697 724 Delete type=0 #452

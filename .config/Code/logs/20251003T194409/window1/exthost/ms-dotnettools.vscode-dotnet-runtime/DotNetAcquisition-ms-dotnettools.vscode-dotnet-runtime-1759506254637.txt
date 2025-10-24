@@ -1,0 +1,67 @@
+03.10.2025, 19:44:14 649 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.csharp for .NET installation requests
+
+03.10.2025, 19:44:14 649 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.prompt for .NET installation requests
+
+03.10.2025, 19:44:14 649 DotnetVSCodeExtensionFound
+true
+Checking extension Catppuccin.catppuccin-vsc for .NET installation requests
+
+03.10.2025, 19:44:14 649 DotnetVSCodeExtensionFound
+true
+Checking extension Catppuccin.catppuccin-vsc-icons for .NET installation requests
+
+03.10.2025, 19:44:14 649 DotnetVSCodeExtensionFound
+true
+Checking extension dsznajder.es7-react-js-snippets for .NET installation requests
+
+03.10.2025, 19:44:14 649 DotnetVSCodeExtensionFound
+true
+Checking extension ecmel.vscode-html-css for .NET installation requests
+
+03.10.2025, 19:44:14 649 DotnetVSCodeExtensionFound
+true
+Checking extension enkia.tokyo-night for .NET installation requests
+
+03.10.2025, 19:44:14 649 DotnetVSCodeExtensionFound
+true
+Checking extension formulahendry.code-runner for .NET installation requests
+
+03.10.2025, 19:44:14 649 DotnetVSCodeExtensionFound
+true
+Checking extension icrawl.discord-vscode for .NET installation requests
+
+03.10.2025, 19:44:14 649 DotnetVSCodeExtensionFound
+true
+Checking extension ms-dotnettools.vscode-dotnet-runtime for .NET installation requests
+
+03.10.2025, 19:44:14 649 DotnetVSCodeExtensionFound
+true
+Checking extension ms-python.vscode-python-envs for .NET installation requests
+
+03.10.2025, 19:44:14 649 DotnetVSCodeExtensionFound
+true
+Checking extension ritwickdey.LiveServer for .NET installation requests
+
+03.10.2025, 19:44:14 649 DotnetVSCodeExtensionFound
+true
+Checking extension sidthesloth.html5-boilerplate for .NET installation requests
+
+03.10.2025, 19:44:14 649 DotnetVSCodeExtensionFound
+true
+Checking extension sumneko.lua for .NET installation requests
+
+03.10.2025, 19:44:14 649 DotnetVSCodeExtensionFound
+true
+Checking extension tamasfe.even-better-toml for .NET installation requests
+
+03.10.2025, 19:44:14 649 DotnetVSCodeExtensionFound
+true
+Checking extension teabyii.ayu for .NET installation requests
+
+03.10.2025, 19:44:14 649 DotnetVSCodeExtensionFound
+true
+Checking extension YoavBls.pretty-ts-errors for .NET installation requests

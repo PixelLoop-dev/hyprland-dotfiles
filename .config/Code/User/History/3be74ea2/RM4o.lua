@@ -1,0 +1,9 @@
+vim.opt.number = true           -- показывать номера строк
+vim.opt.relativenumber = true   -- относительные номера
+vim.opt.expandtab = true        -- табы как пробелы
+vim.opt.shiftwidth = 2          -- размер отступа
+vim.opt.tabstop = 2
+vim.opt.smartindent = true
+vim.opt.wrap = false            -- не переносить строки
+vim.opt.termguicolors = true    -- 24-бит цвета
+vim.opt.clipboard = "unnamedplus" -- системный буфер обмена

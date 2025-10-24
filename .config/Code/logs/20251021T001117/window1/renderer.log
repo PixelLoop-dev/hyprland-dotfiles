@@ -1,0 +1,71 @@
+2025-10-21 00:11:17.988 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-10-21 00:11:18.104 [info] Started local extension host with pid 32032.
+2025-10-21 00:11:18.256 [info] Creating lazy extension host (LocalWebWorker). Reason: contains 1 extension(s): pomdtr.excalidraw-editor.
+2025-10-21 00:11:18.509 [warning] No search provider registered for scheme: file, waiting
+2025-10-21 00:11:18.589 [error] [sidthesloth.html5-boilerplate]: Unknown language in `contributes.html5-boilerplate.language`. Provided value: njk
+2025-10-21 00:11:18.589 [error] [sidthesloth.html5-boilerplate]: Unknown language in `contributes.html5-boilerplate.language`. Provided value: django-html
+2025-10-21 00:11:19.006 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-10-21 00:11:19.068 [error] [Extension Host] Failed to load MSAL binary: Error: Cannot find module './msal-node-runtime'
+Require stack:
+- /opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js
+- /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js
+	at Module._resolveFilename (node:internal/modules/cjs/loader:1372:15)
+	at n._resolveFilename (node:electron/js2c/utility_init:2:16249)
+	at t._resolveFilename (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:209:22931)
+	at defaultResolveImpl (node:internal/modules/cjs/loader:1028:19)
+	at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1033:22)
+	at Module._load (node:internal/modules/cjs/loader:1182:37)
+	at c._load (node:electron/js2c/node_init:2:17993)
+	at e._load (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:391:5984)
+	at t._load (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:209:22649)
+	at r._load (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:201:25551)
+	at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+	at wrapModuleLoad (node:internal/modules/cjs/loader:242:24)
+	at Module.require (node:internal/modules/cjs/loader:1452:12)
+	at require (node:internal/modules/helpers:135:16)
+	at 7247 (/opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js:2:231600)
+	at n (/opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js:2:559324)
+	at 9020 (/opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js:2:526968)
+	at n (/opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js:2:559324)
+	at 6244 (/opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js:2:215773)
+	at n (/opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js:2:559324)
+	at 3226 (/opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js:2:129004)
+	at n (/opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js:2:559324)
+	at 2583 (/opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js:2:105051)
+	at n (/opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js:2:559324)
+	at 8428 (/opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js:2:452019)
+	at n (/opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js:2:559324)
+	at 5256 (/opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js:2:172891)
+	at n (/opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js:2:559324)
+	at /opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js:2:559691
+	at Object.<anonymous> (/opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js:2:559798)
+	at Module._compile (node:internal/modules/cjs/loader:1696:14)
+	at Module._extensions..js (node:internal/modules/cjs/loader:1829:10)
+	at Module.load (node:internal/modules/cjs/loader:1430:32)
+	at Module._load (node:internal/modules/cjs/loader:1253:12)
+	at c._load (node:electron/js2c/node_init:2:17993)
+	at e._load (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:391:5984)
+	at t._load (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:209:22649)
+	at r._load (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:201:25551)
+	at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+	at wrapModuleLoad (node:internal/modules/cjs/loader:242:24)
+	at Module.require (node:internal/modules/cjs/loader:1452:12)
+	at require (node:internal/modules/helpers:135:16)
+	at aJ.Cb (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:240:1253)
+2025-10-21 00:11:20.677 [info] [perf] Render performance baseline is 13ms
+2025-10-21 00:11:21.793 [warning] [perf] Renderer reported VERY LONG TASK (133ms), starting profiling session '252c928b-a6fe-422c-88e0-e8844813e950'
+2025-10-21 00:11:23.044 [info] Auto updating outdated extensions. catppuccin.catppuccin-vsc, catppuccin.catppuccin-vsc-icons, github.copilot-chat, ms-python.debugpy, ms-python.python, ms-python.vscode-python-envs
+2025-10-21 00:11:23.898 [error] [Extension Host] (node:32032) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+(Use `exe --trace-warnings ...` to show where the warning was created)
+2025-10-21 00:11:24.461 [warning] Failed to update in-progress status for chat session type 'claude-code': Can not find provider for claude-code
+2025-10-21 00:12:16.331 [info] Settings Sync: Updated current session 73abb97b181f76c8
+2025-10-21 00:12:16.335 [info] Settings Sync: Account status changed from unavailable to available
+2025-10-21 00:12:50.529 [error] An unknown error occurred. Please consult the log for more details.
+2025-10-21 00:12:55.340 [warning] [perf] Renderer reported VERY LONG TASK (299ms), starting profiling session '74e3a0a7-0773-441d-ab2d-cf1bfdc977f8'
+2025-10-21 00:15:48.342 [warning] [perf] Renderer reported VERY LONG TASK (259ms), starting profiling session '854b4a6c-7185-4b74-9d39-363471d5e6d8'
+2025-10-21 00:16:25.877 [error] An unknown error occurred. Please consult the log for more details.
+2025-10-21 00:19:32.362 [error] An unknown error occurred. Please consult the log for more details.
+2025-10-21 00:21:27.577 [error] An unknown error occurred. Please consult the log for more details.
+2025-10-21 00:26:29.255 [error] An unknown error occurred. Please consult the log for more details.
+2025-10-21 00:30:51.470 [error] An unknown error occurred. Please consult the log for more details.
+2025-10-21 00:31:30.934 [error] An unknown error occurred. Please consult the log for more details.

@@ -1,0 +1,14 @@
+{
+    "current_route_id": 0,
+    "direct_dns": "localhost",
+    "direct_dns_strategy": "",
+    "dns_final_out": "remote",
+    "dns_object": "",
+    "domain_strategy": "",
+    "outbound_domain_strategy": "",
+    "remote_dns": "tls://8.8.8.8",
+    "remote_dns_strategy": "",
+    "ruleset_mirror": 1,
+    "sniffing_mode": 1,
+    "use_dns_object": false
+}

@@ -1,0 +1,4 @@
+fastapi 
+aiogram 
+loguru
+dotenv

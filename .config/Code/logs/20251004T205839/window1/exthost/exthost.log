@@ -1,0 +1,15 @@
+2025-10-04 20:58:41.030 [info] Extension host with pid 16167 started
+2025-10-04 20:58:41.171 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-10-04 20:58:41.195 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-10-04 20:58:41.344 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2025-10-04 20:58:41.422 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-10-04 20:58:41.511 [info] Eager extensions activated
+2025-10-04 20:58:41.530 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-10-04 20:58:41.532 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-10-04 20:58:41.550 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2025-10-04 20:58:41.559 [info] ExtensionService#_doActivateExtension dsznajder.es7-react-js-snippets, startup: false, activationEvent: 'onStartupFinished'
+2025-10-04 20:58:42.000 [info] ExtensionService#_doActivateExtension ms-dotnettools.vscode-dotnet-runtime, startup: false, activationEvent: 'onStartupFinished'
+2025-10-04 20:58:42.121 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onMcpCollection:pylanceMcp'
+2025-10-04 20:58:44.207 [warning] DiagnosticCollection with name 'pylance' does already exist.
+2025-10-04 20:58:46.517 [info] Extension host terminating: renderer closed the MessagePort
+2025-10-04 20:58:46.530 [info] Extension host with pid 16167 exiting with code 0

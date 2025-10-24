@@ -1,0 +1,15 @@
+2025-10-04 23:53:09.604 [info] Native locator: Refresh started
+2025-10-04 23:53:09.669 [info] Native locator: Refresh started
+2025-10-04 23:53:09.690 [info] > pyenv which python
+2025-10-04 23:53:09.690 [info] cwd: .
+2025-10-04 23:53:09.821 [info] Native locator: Refresh finished in 215 ms
+2025-10-04 23:53:09.837 [info] Python interpreter path: /usr/bin/python
+2025-10-04 23:53:09.839 [info] Starting Pylance language server.
+2025-10-05 00:01:59.538 [info] Active interpreter [/home/pixel_loop/scripts/tetris]:  /home/pixel_loop/scripts/tetris/vevn/bin/python
+2025-10-05 00:01:59.540 [info] Discover tests for workspace name: tetris - uri: /home/pixel_loop/scripts/tetris
+2025-10-05 00:01:59.540 [info] Python interpreter path: ./vevn/bin/python
+2025-10-05 00:03:05.904 [info] Discover tests for workspace name: tetris - uri: /home/pixel_loop/scripts/tetris/main4.py
+2025-10-05 00:13:12.537 [info] Discover tests for workspace name: tetris - uri: /home/pixel_loop/scripts/tetris/main4.py
+2025-10-05 00:16:29.340 [info] Discover tests for workspace name: tetris - uri: /home/pixel_loop/scripts/tetris/main4.py
+2025-10-05 00:22:31.150 [info] Discover tests for workspace name: tetris - uri: /home/pixel_loop/scripts/tetris/main4.py
+2025-10-05 00:22:33.330 [info] Discover tests for workspace name: tetris - uri: /home/pixel_loop/scripts/tetris/main4.py

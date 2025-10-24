@@ -1,0 +1,5 @@
+2025-10-04 20:58:43.096 [info] (Client) Pylance client (2025.8.3) started with python extension (Unknown)
+2025-10-04 20:58:44.177 [info] (16221) Server root directory: file:///home/pixel_loop/.vscode/extensions/ms-python.vscode-pylance-2025.8.3/dist
+2025-10-04 20:58:44.178 [info] (16221) Pylance language server 2025.8.3 (pyright version 1.1.405, commit d64f3fa0) starting
+2025-10-04 20:58:44.210 [error] (16221) Failed to generate authorization header for MCP server. Not starting server.
+2025-10-04 20:58:44.210 [info] Failed to get authorization header for Pylance MCP server. MCP server disabled.

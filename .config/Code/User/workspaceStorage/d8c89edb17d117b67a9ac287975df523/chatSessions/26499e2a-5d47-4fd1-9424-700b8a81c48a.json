@@ -1,0 +1,21 @@
+{
+  "version": 3,
+  "requesterUsername": "PixelLoop-uwu",
+  "requesterAvatarIconUri": {
+    "$mid": 1,
+    "path": "/u/190956500",
+    "scheme": "https",
+    "authority": "avatars.githubusercontent.com",
+    "query": "v=4"
+  },
+  "responderUsername": "GitHub Copilot",
+  "responderAvatarIconUri": {
+    "id": "copilot"
+  },
+  "initialLocation": "panel",
+  "requests": [],
+  "sessionId": "26499e2a-5d47-4fd1-9424-700b8a81c48a",
+  "creationDate": 1760991077960,
+  "isImported": false,
+  "lastMessageDate": 1760991077960
+}

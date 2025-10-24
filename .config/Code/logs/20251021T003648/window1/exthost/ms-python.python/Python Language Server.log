@@ -1,0 +1,22 @@
+2025-10-21 00:36:54.279 [info] (Client) Pylance client (2025.8.3) started with python extension (2025.16.0)
+2025-10-21 00:36:54.540 [info] (39403) Server root directory: file:///home/pixel_loop/.vscode/extensions/ms-python.vscode-pylance-2025.8.3/dist
+2025-10-21 00:36:54.541 [info] (39403) Pylance language server 2025.8.3 (pyright version 1.1.405, commit d64f3fa0) starting
+2025-10-21 00:36:54.548 [info] (39403) Starting service instance "TelegramFileSharingBot" for workspace "/home/pixel_loop/projects/TelegramFileSharingBot"
+2025-10-21 00:36:54.674 [info] (39403) Starting Mcp server id:5230 ...
+2025-10-21 00:36:54.688 [info] (39403) Setting environmentName for service "TelegramFileSharingBot": "3.13.7 (venv venv)"
+2025-10-21 00:36:54.688 [info] (39403) Setting pythonPath for service "TelegramFileSharingBot": "/home/pixel_loop/projects/TelegramFileSharingBot/venv/bin/python"
+2025-10-21 00:36:54.690 [info] (39403) No include entries specified; assuming /home/pixel_loop/projects/TelegramFileSharingBot
+2025-10-21 00:36:54.691 [info] (39403) Auto-excluding **/node_modules
+2025-10-21 00:36:54.691 [info] (39403) Auto-excluding **/__pycache__
+2025-10-21 00:36:54.691 [info] (39403) Auto-excluding **/.*
+2025-10-21 00:36:54.708 [info] (39403) Assuming Python version 3.13.7.final.0
+2025-10-21 00:36:54.806 [info] (39403) Settings have not changed. Skipping update.
+2025-10-21 00:36:54.845 [info] (39403) Auto-excluding /home/pixel_loop/projects/TelegramFileSharingBot/venv
+2025-10-21 00:36:54.845 [info] (39403) Found 18 source files
+2025-10-21 00:36:55.228 [info] (39403) BG: Priority queue background worker(2) root directory: file:///home/pixel_loop/.vscode/extensions/ms-python.vscode-pylance-2025.8.3/dist
+2025-10-21 00:36:55.228 [info] (39403) BG: Priority queue background worker(2) started
+2025-10-21 00:36:55.289 [info] (39403) BG: Indexer background runner(3) root directory: file:///home/pixel_loop/.vscode/extensions/ms-python.vscode-pylance-2025.8.3/dist (index)
+2025-10-21 00:36:55.289 [info] (39403) BG: Indexing(3) started
+2025-10-21 00:36:55.530 [info] (39403) BG: scanned(3) 634 files over 1 exec env
+2025-10-21 00:36:56.525 [info] (39403) BG: indexed(3) 634 files over 1 exec env
+2025-10-21 00:36:56.585 [info] (39403) BG: Indexing finished(3).

@@ -1,0 +1,12 @@
+Type=X-GNOME-Metatheme
+[Desktop Entry]
+Name=Rosepine-Float-Border-Light
+Comment=An Flat Gtk+ theme based on Elegant Design
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Rosepine-Float-Border-Light
+MetacityTheme=Rosepine-Float-Border-Light
+IconTheme=Tela-circle
+CursorTheme=Rosepine-Float-Border-cursors
+ButtonLayout=close,minimize,maximize:menu

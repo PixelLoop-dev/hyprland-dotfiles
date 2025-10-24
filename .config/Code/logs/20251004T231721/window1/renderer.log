@@ -1,0 +1,86 @@
+2025-10-04 23:17:22.146 [info] Started local extension host with pid 20558.
+2025-10-04 23:17:22.432 [info] Creating lazy extension host (LocalWebWorker). Reason: contains 1 extension(s): pomdtr.excalidraw-editor.
+2025-10-04 23:17:22.747 [error] [sidthesloth.html5-boilerplate]: Unknown language in `contributes.html5-boilerplate.language`. Provided value: njk
+2025-10-04 23:17:22.748 [error] [sidthesloth.html5-boilerplate]: Unknown language in `contributes.html5-boilerplate.language`. Provided value: django-html
+2025-10-04 23:17:23.226 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-10-04 23:17:24.836 [info] [perf] Render performance baseline is 14ms
+2025-10-04 23:31:48.635 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-10-04 23:31:48.719 [info] Started local extension host with pid 21498.
+2025-10-04 23:31:48.957 [info] Creating lazy extension host (LocalWebWorker). Reason: contains 1 extension(s): pomdtr.excalidraw-editor.
+2025-10-04 23:31:49.052 [error] [sidthesloth.html5-boilerplate]: Unknown language in `contributes.html5-boilerplate.language`. Provided value: njk
+2025-10-04 23:31:49.052 [error] [sidthesloth.html5-boilerplate]: Unknown language in `contributes.html5-boilerplate.language`. Provided value: django-html
+2025-10-04 23:31:50.014 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-10-04 23:31:50.092 [error] [Extension Host] Failed to load MSAL binary: Error: Cannot find module './msal-node-runtime'
+Require stack:
+- /opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js
+- /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js
+	at Module._resolveFilename (node:internal/modules/cjs/loader:1372:15)
+	at n._resolveFilename (node:electron/js2c/utility_init:2:16249)
+	at t._resolveFilename (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:209:22931)
+	at defaultResolveImpl (node:internal/modules/cjs/loader:1028:19)
+	at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1033:22)
+	at Module._load (node:internal/modules/cjs/loader:1182:37)
+	at c._load (node:electron/js2c/node_init:2:17993)
+	at e._load (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:391:5984)
+	at t._load (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:209:22649)
+	at r._load (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:201:25551)
+	at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+	at wrapModuleLoad (node:internal/modules/cjs/loader:242:24)
+	at Module.require (node:internal/modules/cjs/loader:1452:12)
+	at require (node:internal/modules/helpers:135:16)
+	at 7247 (/opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js:2:231600)
+	at n (/opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js:2:559324)
+	at 9020 (/opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js:2:526968)
+	at n (/opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js:2:559324)
+	at 6244 (/opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js:2:215773)
+	at n (/opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js:2:559324)
+	at 3226 (/opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js:2:129004)
+	at n (/opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js:2:559324)
+	at 2583 (/opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js:2:105051)
+	at n (/opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js:2:559324)
+	at 8428 (/opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js:2:452019)
+	at n (/opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js:2:559324)
+	at 5256 (/opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js:2:172891)
+	at n (/opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js:2:559324)
+	at /opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js:2:559691
+	at Object.<anonymous> (/opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js:2:559798)
+	at Module._compile (node:internal/modules/cjs/loader:1696:14)
+	at Module._extensions..js (node:internal/modules/cjs/loader:1829:10)
+	at Module.load (node:internal/modules/cjs/loader:1430:32)
+	at Module._load (node:internal/modules/cjs/loader:1253:12)
+	at c._load (node:electron/js2c/node_init:2:17993)
+	at e._load (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:391:5984)
+	at t._load (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:209:22649)
+	at r._load (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:201:25551)
+	at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+	at wrapModuleLoad (node:internal/modules/cjs/loader:242:24)
+	at Module.require (node:internal/modules/cjs/loader:1452:12)
+	at require (node:internal/modules/helpers:135:16)
+	at aJ.Cb (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:240:1253)
+2025-10-04 23:31:51.318 [info] [perf] Render performance baseline is 25ms
+2025-10-04 23:31:53.806 [error] [Extension Host] (node:21498) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+(Use `exe --trace-warnings ...` to show where the warning was created)
+2025-10-04 23:31:54.485 [warning] Failed to update in-progress status for chat session type 'claude-code': Can not find provider for claude-code
+2025-10-04 23:31:55.493 [error] An unknown error occurred. Please consult the log for more details.
+2025-10-04 23:36:55.621 [error] An unknown error occurred. Please consult the log for more details.
+2025-10-04 23:41:57.320 [error] An unknown error occurred. Please consult the log for more details.
+2025-10-04 23:46:59.020 [error] An unknown error occurred. Please consult the log for more details.
+2025-10-04 23:52:00.723 [error] An unknown error occurred. Please consult the log for more details.
+2025-10-04 23:57:02.414 [error] An unknown error occurred. Please consult the log for more details.
+2025-10-05 00:02:04.120 [error] An unknown error occurred. Please consult the log for more details.
+2025-10-05 00:07:05.854 [error] An unknown error occurred. Please consult the log for more details.
+2025-10-05 00:12:07.557 [error] An unknown error occurred. Please consult the log for more details.
+2025-10-05 00:16:31.574 [error] TreeError [DebugRepl] Tree input not set: Error: TreeError [DebugRepl] Tree input not set
+    at Ag.C (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:426:29219)
+    at Ag.updateChildren (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:426:29000)
+    at qae.value (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2538:33782)
+    at I.C (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2392)
+    at I.D (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2462)
+    at I.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2680)
+    at EEe.setVisible (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:559:2730)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:585:13938
+    at Array.map (<anonymous>)
+    at jd.setVisible (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:585:13929)
+2025-10-05 00:17:09.251 [error] An unknown error occurred. Please consult the log for more details.
+2025-10-05 00:22:10.964 [error] An unknown error occurred. Please consult the log for more details.
+2025-10-05 00:27:12.699 [error] An unknown error occurred. Please consult the log for more details.

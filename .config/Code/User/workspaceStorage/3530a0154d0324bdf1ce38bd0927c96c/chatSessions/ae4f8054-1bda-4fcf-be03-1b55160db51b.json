@@ -1,0 +1,65 @@
+{
+  "version": 3,
+  "requesterUsername": "PixelLoop-uwu",
+  "requesterAvatarIconUri": {
+    "$mid": 1,
+    "path": "/u/190956500",
+    "scheme": "https",
+    "authority": "avatars.githubusercontent.com",
+    "query": "v=4"
+  },
+  "responderUsername": "GitHub Copilot",
+  "responderAvatarIconUri": {
+    "id": "copilot"
+  },
+  "initialLocation": "editor",
+  "requests": [
+    {
+      "requestId": "request_4a2bd312-be59-405c-830f-f96a328c4bc0",
+      "message": {
+        "text": "",
+        "parts": []
+      },
+      "variableData": {
+        "variables": []
+      },
+      "response": [
+        {
+          "kind": "textEditGroup",
+          "uri": {
+            "$mid": 1,
+            "fsPath": "/home/pixel_loop/scripts/tetris/main4.py",
+            "external": "file:///home/pixel_loop/scripts/tetris/main4.py",
+            "path": "/home/pixel_loop/scripts/tetris/main4.py",
+            "scheme": "file"
+          },
+          "edits": [
+            [],
+            [
+              {
+                "text": "import curses\n\ndef draw_smile(stdscr):\n    curses.start_color()\n    curses.init_pair(1, curses.COLOR_YELLOW, curses.COLOR_YELLOW)\n    curses.init_pair(2, curses.COLOR_BLACK, curses.COLOR_BLACK)\n    curses.init_pair(3, curses.COLOR_RED, curses.COLOR_RED)\n\n    stdscr.clear()\n    # Координаты для смайлика (матрица 7x7)\n    smile = [\n        \" 00000 \",\n        \"0     0\",\n        \"0 0 0 0\",\n        \"0     0\",\n        \"0 000 0\",\n        \"0     0\",\n        \" 00000 \"\n    ]\n    for y, row in enumerate(smile):\n        for x, ch in enumerate(row):\n            if ch == \"0\":\n                stdscr.addstr(y, x*2, \"  \", curses.color_pair(1))\n            elif ch == \" \":\n                stdscr.addstr(y, x*2, \"  \", curses.color_pair(2))\n    # Рот (красный)\n    stdscr.addstr(4, 2*2, \"  \", curses.color_pair(3))\n    stdscr.addstr(4, 3*2, \"  \", curses.color_pair(3))\n    stdscr.addstr(4, 4*2, \"  \", curses.color_pair(3))\n\n    stdscr.refresh()\n    stdscr.getch()\n\ncurses.wrapper(draw_smile)",
+                "range": {
+                  "startLineNumber": 1,
+                  "startColumn": 1,
+                  "endLineNumber": 1,
+                  "endColumn": 1
+                }
+              }
+            ],
+            []
+          ],
+          "done": true
+        }
+      ],
+      "responseId": "response_e26f560d-0c1e-431e-a113-35a138e6c805",
+      "isCanceled": false,
+      "contentReferences": [],
+      "codeCitations": [],
+      "timestamp": 1759609350789
+    }
+  ],
+  "sessionId": "ae4f8054-1bda-4fcf-be03-1b55160db51b",
+  "creationDate": 1759609350783,
+  "isImported": false,
+  "lastMessageDate": 1759609350790
+}

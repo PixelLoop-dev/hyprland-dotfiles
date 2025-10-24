@@ -1,0 +1,103 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "3c9dfa6fadf6a33603b9154d2ca1504029e4d627dc0097b47cde9439c6d74c45",
+    "telemetry.devDeviceId": "9f7cef19-b0ac-4205-bf38-deaeacc1ffa1",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/pixel_loop/projects/TelegramFileSharingBot"
+            }
+        ],
+        "emptyWindows": []
+    },
+    "windowControlHeight": 42,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/pixel_loop/.config/hypr": "__default__profile__",
+            "file:///home/pixel_loop/.config": "__default__profile__",
+            "file:///home/pixel_loop/.config/ags": "__default__profile__",
+            "file:///home/pixel_loop/.config/nvim": "__default__profile__",
+            "file:///home/pixel_loop/scripts/tetris": "__default__profile__",
+            "file:///home/pixel_loop/projects/TelegramFileSharingBot": "__default__profile__"
+        },
+        "emptyWindows": {}
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/pixel_loop/projects/TelegramFileSharingBot",
+            "backupPath": "/home/pixel_loop/.config/Code/Backups/b5457e8e59b635450c550585baf5f1a2",
+            "uiState": {
+                "mode": 1,
+                "x": 17,
+                "y": 70,
+                "width": 1886,
+                "height": 993,
+                "zoomLevel": 1
+            }
+        },
+        "openedWindows": []
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#1e1e2e",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cdd6f4",
+            "background": "#1e1e2e",
+            "editorBackground": "#1e1e2e",
+            "titleBarBackground": "#11111b",
+            "titleBarBorder": "rgba(0, 0, 0, 0)",
+            "activityBarBackground": "#11111b",
+            "activityBarBorder": "rgba(0, 0, 0, 0)",
+            "sideBarBackground": "#181825",
+            "sideBarBorder": "rgba(0, 0, 0, 0)",
+            "statusBarBackground": "#11111b",
+            "statusBarBorder": "rgba(0, 0, 0, 0)",
+            "statusBarNoFolderBackground": "#11111b"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 248,
+            "auxiliaryBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 248,
+            "auxiliaryBarWidth": 262,
+            "workspaces": {
+                "54c23b1e54c9dd19df59a6c893c2b876": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "1fb8621edebe1ad657d2176f9a7951cc": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "3ff42e7570795a9360283768bc4e0db6": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "7b2a4f73ab65ce95e5a65c5dda7e74f8": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "3530a0154d0324bdf1ce38bd0927c96c": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "d8c89edb17d117b67a9ac287975df523": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                }
+            }
+        }
+    }
+}

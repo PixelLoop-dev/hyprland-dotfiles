@@ -1,0 +1,10 @@
+from pathlib import Path
+
+class RandomWallpapers:
+  def __init__(self, path: str):
+    self.WALLPAPERS_PATH = Path(path)
+
+  def get_wallpapers(self):
+    return [f.name for f in self.WALLPAPERS_PATH.iterdir() if f.is_file() and f.suffix.lower() in [".png", ".jpg", ".jpeg"]]
+
+  def 

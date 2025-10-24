@@ -1,0 +1,184 @@
+2025-10-04 23:17:22.579 [info] Extension host with pid 20558 started
+2025-10-04 23:17:22.591 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-10-04 23:17:22.616 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-10-04 23:17:22.696 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2025-10-04 23:17:22.726 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-10-04 23:17:22.782 [info] Eager extensions activated
+2025-10-04 23:17:22.783 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-10-04 23:17:22.785 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-10-04 23:17:22.802 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2025-10-04 23:17:22.808 [info] ExtensionService#_doActivateExtension dsznajder.es7-react-js-snippets, startup: false, activationEvent: 'onStartupFinished'
+2025-10-04 23:17:23.148 [info] ExtensionService#_doActivateExtension ms-dotnettools.vscode-dotnet-runtime, startup: false, activationEvent: 'onStartupFinished'
+2025-10-04 23:31:48.294 [info] Extension host terminating: renderer closed the MessagePort
+2025-10-04 23:31:48.302 [info] Extension host with pid 20558 exiting with code 0
+2025-10-04 23:31:49.106 [info] Extension host with pid 21498 started
+2025-10-04 23:31:49.106 [info] Skipping acquiring lock for /home/pixel_loop/.config/Code/User/workspaceStorage/3530a0154d0324bdf1ce38bd0927c96c.
+2025-10-04 23:31:49.119 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-10-04 23:31:49.138 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-10-04 23:31:49.189 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2025-10-04 23:31:49.200 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-10-04 23:31:49.262 [info] Eager extensions activated
+2025-10-04 23:31:49.296 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-10-04 23:31:49.297 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-10-04 23:31:49.311 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2025-10-04 23:31:49.315 [info] ExtensionService#_doActivateExtension dsznajder.es7-react-js-snippets, startup: false, activationEvent: 'onStartupFinished'
+2025-10-04 23:31:49.615 [info] ExtensionService#_doActivateExtension ms-dotnettools.vscode-dotnet-runtime, startup: false, activationEvent: 'onStartupFinished'
+2025-10-04 23:31:49.667 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onMcpCollection:pylanceMcp'
+2025-10-04 23:31:50.054 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2025-10-04 23:31:51.604 [warning] DiagnosticCollection with name 'pylance' does already exist.
+2025-10-04 23:31:51.665 [warning] DiagnosticCollection with name 'pylance' does already exist.
+2025-10-04 23:31:51.667 [warning] DiagnosticCollection with name 'pylance' does already exist.
+2025-10-04 23:31:51.955 [warning] DiagnosticCollection with name 'pylance' does already exist.
+2025-10-04 23:31:52.002 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2025-10-04 23:31:52.133 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc-icons, startup: false, activationEvent: 'onStartupFinished'
+2025-10-04 23:31:52.227 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: false, activationEvent: 'onStartupFinished'
+2025-10-04 23:31:52.233 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2025-10-04 23:31:52.254 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2025-10-04 23:31:53.394 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2025-10-04 23:31:53.806 [info] ExtensionService#_doActivateExtension icrawl.discord-vscode, startup: false, activationEvent: '*'
+2025-10-04 23:31:53.847 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2025-10-04 23:31:54.274 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onCommand:json.validate'
+2025-10-04 23:31:55.492 [error] Error: GitHubLoginFailed
+    at y9._authShowWarnings (/home/pixel_loop/.vscode/extensions/github.copilot-chat-0.31.4/dist/extension.js:949:16822)
+    at y9.getCopilotToken (/home/pixel_loop/.vscode/extensions/github.copilot-chat-0.31.4/dist/extension.js:949:15345)
+    at YG.getCopilotToken (/home/pixel_loop/.vscode/extensions/github.copilot-chat-0.31.4/dist/extension.js:485:25260)
+    at sE._fetchModels (/home/pixel_loop/.vscode/extensions/github.copilot-chat-0.31.4/dist/extension.js:2934:3968)
+    at sE.getAllChatModels (/home/pixel_loop/.vscode/extensions/github.copilot-chat-0.31.4/dist/extension.js:2934:2014)
+    at Bj.getAllChatEndpoints (/home/pixel_loop/.vscode/extensions/github.copilot-chat-0.31.4/dist/extension.js:2934:14863)
+2025-10-04 23:36:55.621 [error] TypeError: terminated
+    at Fetch.onAborted (node:internal/deps/undici/undici:11132:53)
+    at Fetch.emit (node:events:518:28)
+    at Fetch.terminate (node:internal/deps/undici/undici:10290:14)
+    at Object.onError (node:internal/deps/undici/undici:11253:38)
+    at Request.onError (/opt/visual-studio-code/resources/app/node_modules/undici/lib/core/request.js:301:27)
+    at Object.errorRequest (/opt/visual-studio-code/resources/app/node_modules/undici/lib/core/util.js:836:13)
+    at Socket.onHttpSocketClose (/opt/visual-studio-code/resources/app/node_modules/undici/lib/dispatcher/client-h1.js:939:10)
+    at Socket.emit (node:events:530:35)
+    at TCP.<anonymous> (node:net:346:12)
+2025-10-04 23:41:57.320 [error] TypeError: terminated
+    at Fetch.onAborted (node:internal/deps/undici/undici:11132:53)
+    at Fetch.emit (node:events:518:28)
+    at Fetch.terminate (node:internal/deps/undici/undici:10290:14)
+    at Object.onError (node:internal/deps/undici/undici:11253:38)
+    at Request.onError (/opt/visual-studio-code/resources/app/node_modules/undici/lib/core/request.js:301:27)
+    at Object.errorRequest (/opt/visual-studio-code/resources/app/node_modules/undici/lib/core/util.js:836:13)
+    at Socket.onHttpSocketClose (/opt/visual-studio-code/resources/app/node_modules/undici/lib/dispatcher/client-h1.js:939:10)
+    at Socket.emit (node:events:530:35)
+    at TCP.<anonymous> (node:net:346:12)
+2025-10-04 23:46:59.018 [error] TypeError: terminated
+    at Fetch.onAborted (node:internal/deps/undici/undici:11132:53)
+    at Fetch.emit (node:events:518:28)
+    at Fetch.terminate (node:internal/deps/undici/undici:10290:14)
+    at Object.onError (node:internal/deps/undici/undici:11253:38)
+    at Request.onError (/opt/visual-studio-code/resources/app/node_modules/undici/lib/core/request.js:301:27)
+    at Object.errorRequest (/opt/visual-studio-code/resources/app/node_modules/undici/lib/core/util.js:836:13)
+    at Socket.onHttpSocketClose (/opt/visual-studio-code/resources/app/node_modules/undici/lib/dispatcher/client-h1.js:939:10)
+    at Socket.emit (node:events:530:35)
+    at TCP.<anonymous> (node:net:346:12)
+2025-10-04 23:52:00.721 [error] TypeError: terminated
+    at Fetch.onAborted (node:internal/deps/undici/undici:11132:53)
+    at Fetch.emit (node:events:518:28)
+    at Fetch.terminate (node:internal/deps/undici/undici:10290:14)
+    at Object.onError (node:internal/deps/undici/undici:11253:38)
+    at Request.onError (/opt/visual-studio-code/resources/app/node_modules/undici/lib/core/request.js:301:27)
+    at Object.errorRequest (/opt/visual-studio-code/resources/app/node_modules/undici/lib/core/util.js:836:13)
+    at Socket.onHttpSocketClose (/opt/visual-studio-code/resources/app/node_modules/undici/lib/dispatcher/client-h1.js:939:10)
+    at Socket.emit (node:events:530:35)
+    at TCP.<anonymous> (node:net:346:12)
+2025-10-04 23:53:08.882 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.debugpy
+2025-10-04 23:53:09.039 [info] ExtensionService#_doActivateExtension ms-python.vscode-python-envs, startup: false, activationEvent: 'onLanguage:python'
+2025-10-04 23:53:09.715 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2025-10-04 23:53:11.335 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2025-10-04 23:57:02.413 [error] TypeError: terminated
+    at Fetch.onAborted (node:internal/deps/undici/undici:11132:53)
+    at Fetch.emit (node:events:518:28)
+    at Fetch.terminate (node:internal/deps/undici/undici:10290:14)
+    at Object.onError (node:internal/deps/undici/undici:11253:38)
+    at Request.onError (/opt/visual-studio-code/resources/app/node_modules/undici/lib/core/request.js:301:27)
+    at Object.errorRequest (/opt/visual-studio-code/resources/app/node_modules/undici/lib/core/util.js:836:13)
+    at Socket.onHttpSocketClose (/opt/visual-studio-code/resources/app/node_modules/undici/lib/dispatcher/client-h1.js:939:10)
+    at Socket.emit (node:events:530:35)
+    at TCP.<anonymous> (node:net:346:12)
+2025-10-05 00:02:04.120 [error] TypeError: terminated
+    at Fetch.onAborted (node:internal/deps/undici/undici:11132:53)
+    at Fetch.emit (node:events:518:28)
+    at Fetch.terminate (node:internal/deps/undici/undici:10290:14)
+    at Object.onError (node:internal/deps/undici/undici:11253:38)
+    at Request.onError (/opt/visual-studio-code/resources/app/node_modules/undici/lib/core/request.js:301:27)
+    at Object.errorRequest (/opt/visual-studio-code/resources/app/node_modules/undici/lib/core/util.js:836:13)
+    at Socket.onHttpSocketClose (/opt/visual-studio-code/resources/app/node_modules/undici/lib/dispatcher/client-h1.js:939:10)
+    at Socket.emit (node:events:530:35)
+    at TCP.<anonymous> (node:net:346:12)
+2025-10-05 00:02:37.762 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-10-05 00:02:37.768 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-10-05 00:07:05.853 [error] TypeError: terminated
+    at Fetch.onAborted (node:internal/deps/undici/undici:11132:53)
+    at Fetch.emit (node:events:518:28)
+    at Fetch.terminate (node:internal/deps/undici/undici:10290:14)
+    at Object.onError (node:internal/deps/undici/undici:11253:38)
+    at Request.onError (/opt/visual-studio-code/resources/app/node_modules/undici/lib/core/request.js:301:27)
+    at Object.errorRequest (/opt/visual-studio-code/resources/app/node_modules/undici/lib/core/util.js:836:13)
+    at Socket.onHttpSocketClose (/opt/visual-studio-code/resources/app/node_modules/undici/lib/dispatcher/client-h1.js:939:10)
+    at Socket.emit (node:events:530:35)
+    at TCP.<anonymous> (node:net:346:12)
+    at TCP.callbackTrampoline (node:internal/async_hooks:130:17)
+2025-10-05 00:12:07.556 [error] TypeError: terminated
+    at Fetch.onAborted (node:internal/deps/undici/undici:11132:53)
+    at Fetch.emit (node:events:518:28)
+    at Fetch.terminate (node:internal/deps/undici/undici:10290:14)
+    at Object.onError (node:internal/deps/undici/undici:11253:38)
+    at Request.onError (/opt/visual-studio-code/resources/app/node_modules/undici/lib/core/request.js:301:27)
+    at Object.errorRequest (/opt/visual-studio-code/resources/app/node_modules/undici/lib/core/util.js:836:13)
+    at Socket.onHttpSocketClose (/opt/visual-studio-code/resources/app/node_modules/undici/lib/dispatcher/client-h1.js:939:10)
+    at Socket.emit (node:events:530:35)
+    at TCP.<anonymous> (node:net:346:12)
+    at TCP.callbackTrampoline (node:internal/async_hooks:130:17)
+2025-10-05 00:17:09.249 [error] TypeError: terminated
+    at Fetch.onAborted (node:internal/deps/undici/undici:11132:53)
+    at Fetch.emit (node:events:518:28)
+    at Fetch.terminate (node:internal/deps/undici/undici:10290:14)
+    at Object.onError (node:internal/deps/undici/undici:11253:38)
+    at Request.onError (/opt/visual-studio-code/resources/app/node_modules/undici/lib/core/request.js:301:27)
+    at Object.errorRequest (/opt/visual-studio-code/resources/app/node_modules/undici/lib/core/util.js:836:13)
+    at Socket.onHttpSocketClose (/opt/visual-studio-code/resources/app/node_modules/undici/lib/dispatcher/client-h1.js:939:10)
+    at Socket.emit (node:events:530:35)
+    at TCP.<anonymous> (node:net:346:12)
+    at TCP.callbackTrampoline (node:internal/async_hooks:130:17)
+2025-10-05 00:22:10.953 [error] TypeError: terminated
+    at Fetch.onAborted (node:internal/deps/undici/undici:11132:53)
+    at Fetch.emit (node:events:518:28)
+    at Fetch.terminate (node:internal/deps/undici/undici:10290:14)
+    at Object.onError (node:internal/deps/undici/undici:11253:38)
+    at Request.onError (/opt/visual-studio-code/resources/app/node_modules/undici/lib/core/request.js:301:27)
+    at Object.errorRequest (/opt/visual-studio-code/resources/app/node_modules/undici/lib/core/util.js:836:13)
+    at Socket.onHttpSocketClose (/opt/visual-studio-code/resources/app/node_modules/undici/lib/dispatcher/client-h1.js:939:10)
+    at Socket.emit (node:events:530:35)
+    at TCP.<anonymous> (node:net:346:12)
+    at TCP.callbackTrampoline (node:internal/async_hooks:130:17)
+2025-10-05 00:22:19.488 [warning] DiagnosticCollection with name 'pylance' does already exist.
+2025-10-05 00:27:12.687 [error] TypeError: terminated
+    at Fetch.onAborted (node:internal/deps/undici/undici:11132:53)
+    at Fetch.emit (node:events:518:28)
+    at Fetch.terminate (node:internal/deps/undici/undici:10290:14)
+    at Object.onError (node:internal/deps/undici/undici:11253:38)
+    at Request.onError (/opt/visual-studio-code/resources/app/node_modules/undici/lib/core/request.js:301:27)
+    at Object.errorRequest (/opt/visual-studio-code/resources/app/node_modules/undici/lib/core/util.js:836:13)
+    at Socket.onHttpSocketClose (/opt/visual-studio-code/resources/app/node_modules/undici/lib/dispatcher/client-h1.js:939:10)
+    at Socket.emit (node:events:530:35)
+    at TCP.<anonymous> (node:net:346:12)
+    at TCP.callbackTrampoline (node:internal/async_hooks:130:17)
+2025-10-05 00:28:22.857 [info] Extension host terminating: renderer closed the MessagePort
+2025-10-05 00:28:22.903 [error] TypeError: Cannot read properties of undefined (reading 'subscriptions')
+    at Object.X [as deactivate] (/home/pixel_loop/.vscode/extensions/ms-python.vscode-python-envs-1.8.0-linux-x64/dist/extension.js:2:662977)
+    at aJ.eb (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:11836)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9986
+    at Array.map (<anonymous>)
+    at aJ.$ (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9974)
+    at aJ.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:10217)
+    at RP.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:914)
+    at bs (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:391:10410)
+    at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:391:6949)
+    at MessagePortMain.emit (node:events:518:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+    at Object.callbackTrampoline (node:internal/async_hooks:130:17)
+2025-10-05 00:28:22.908 [info] Extension host with pid 21498 exiting with code 0

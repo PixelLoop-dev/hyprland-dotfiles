@@ -1,0 +1,37 @@
+2025-10-04 23:31:50.653 [info] (Client) Pylance client (2025.8.3) started with python extension (Unknown)
+2025-10-04 23:31:51.562 [info] (21539) Server root directory: file:///home/pixel_loop/.vscode/extensions/ms-python.vscode-pylance-2025.8.3/dist
+2025-10-04 23:31:51.562 [info] (21539) Pylance language server 2025.8.3 (pyright version 1.1.405, commit d64f3fa0) starting
+2025-10-04 23:31:51.567 [info] (21539) Starting service instance "tetris" for workspace "/home/pixel_loop/scripts/tetris"
+2025-10-04 23:31:51.598 [error] (21539) Failed to generate authorization header for MCP server. Not starting server.
+2025-10-04 23:31:51.598 [info] Failed to get authorization header for Pylance MCP server. MCP server disabled.
+2025-10-04 23:31:51.623 [info] (21539) No include entries specified; assuming /home/pixel_loop/scripts/tetris
+2025-10-04 23:31:51.624 [info] (21539) Auto-excluding **/node_modules
+2025-10-04 23:31:51.624 [info] (21539) Auto-excluding **/__pycache__
+2025-10-04 23:31:51.624 [info] (21539) Auto-excluding **/.*
+2025-10-04 23:31:51.666 [info] (21539) Settings have not changed. Skipping update.
+2025-10-04 23:31:51.669 [info] (21539) No source files found.
+2025-10-04 23:31:51.859 [info] (21539) No source files found.
+2025-10-04 23:31:51.886 [info] (21539) No include entries specified; assuming /home/pixel_loop/scripts/tetris
+2025-10-04 23:31:51.886 [info] (21539) Auto-excluding **/node_modules
+2025-10-04 23:31:51.886 [info] (21539) Auto-excluding **/__pycache__
+2025-10-04 23:31:51.886 [info] (21539) Auto-excluding **/.*
+2025-10-04 23:31:51.913 [info] (21539) Assuming Python version 3.13.7.final.0
+2025-10-04 23:31:51.958 [info] (21539) Starting Mcp server id:3425 ...
+2025-10-04 23:31:51.970 [info] (21539) No source files found.
+2025-10-04 23:31:51.988 [info] (21539) Settings have not changed. Skipping update.
+2025-10-04 23:31:52.228 [info] (21539) BG: Priority queue background worker(2) root directory: file:///home/pixel_loop/.vscode/extensions/ms-python.vscode-pylance-2025.8.3/dist
+2025-10-04 23:31:53.856 [info] (21539) BG: Priority queue background worker(2) started
+2025-10-04 23:53:09.294 [info] (21539) BG: Indexer background runner(3) root directory: file:///home/pixel_loop/.vscode/extensions/ms-python.vscode-pylance-2025.8.3/dist (index)
+2025-10-04 23:53:09.294 [info] (21539) BG: Indexing(3) started
+2025-10-04 23:53:09.628 [info] (21539) BG: scanned(3) 632 files over 1 exec env
+2025-10-04 23:53:10.795 [info] (21539) BG: indexed(3) 632 files over 1 exec env
+2025-10-04 23:53:10.863 [info] (21539) BG: Indexing finished(3).
+2025-10-05 00:22:19.474 [info] (21539) virtual workspace: vscode-chat-code-block://f596dd47-e7ef-4e22-ae4b-f4fde900d9e5/
+2025-10-05 00:22:19.474 [info] (21539) Starting service instance "<default>" for workspace "vscode-chat-code-block://f596dd47-e7ef-4e22-ae4b-f4fde900d9e5/"
+2025-10-05 00:22:19.520 [info] (21539) No include entries specified; assuming vscode-chat-code-block://f596dd47-e7ef-4e22-ae4b-f4fde900d9e5/
+2025-10-05 00:22:19.521 [info] (21539) Auto-excluding **/node_modules
+2025-10-05 00:22:19.522 [info] (21539) Auto-excluding **/__pycache__
+2025-10-05 00:22:19.522 [info] (21539) Auto-excluding **/.*
+2025-10-05 00:22:19.570 [info] (21539) Assuming Python version 3.13.7.final.0
+2025-10-05 00:22:22.122 [error] (21539) File or directory "vscode-chat-code-block://f596dd47-e7ef-4e22-ae4b-f4fde900d9e5/" does not exist.
+2025-10-05 00:22:22.122 [info] (21539) No source files found.

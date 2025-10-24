@@ -1,0 +1,85 @@
+{
+  "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
+  "logo": {
+    "type": "file",
+    "source": "~/.config/fastfetch/logo.txt",
+
+    "color": {
+      "1": "38;2;87;163;201",
+      "2": "38;2;87;163;201"
+    },
+
+    "height": 8,
+    "width": 25,
+    "padding": {
+      "top": 1,
+      "left": 2
+    }
+  },
+  "modules": [
+    {
+      "type": "title",
+      "color": {
+        "user": "38;2;87;163;201",
+        "at": "38;2;87;163;201",
+        "host": "38;2;87;163;201"
+      }
+    },
+    "separator",
+    {
+      "type": "os",
+      "key": "OS",
+      "keyColor": "38;2;87;163;201"
+    },
+    {
+      "type": "wm",
+      "keyColor": "38;2;87;163;201"
+    },
+    "separator",
+    {
+      "type": "theme",
+      "keyColor": "38;2;87;163;201"
+    },
+    {
+      "type": "icons",
+      "keyColor": "38;2;87;163;201"
+    },
+    {
+      "type": "font",
+      "keyColor": "38;2;87;163;201"
+    },
+    "separator",
+    {
+      "type": "cpu",
+      "keyColor": "38;2;87;163;201"
+    },
+    {
+      "type": "gpu",
+      "keyColor": "38;2;87;163;201"
+    },
+    {
+      "type": "memory",
+      "keyColor": "38;2;87;163;201"
+    },
+    {
+      "type": "disk",
+      "keyColor": "38;2;87;163;201"
+    },
+    "separator",
+    {
+      "type": "weather",
+      "location": "Samara",
+      "keyColor": "38;2;87;163;201"
+    },
+    "break",
+    {
+      "type": "custom",
+      "format": "{#38;2;87;163;201}████{#38;2;77;149;187}████{#38;2;67;135;173}████{#38;2;57;121;159}████{#38;2;47;107;145}████{#38;2;37;93;131}████{#38;2;29;81;125}████{#}"
+    },
+    {
+      "type": "custom",
+      "format": "{#38;2;74;139;171}████{#38;2;65;127;159}████{#38;2;57;114;147}████{#38;2;48;103;135}████{#38;2;40;91;123}████{#38;2;31;79;111}████{#38;2;24;69;106}████{#}"
+    }
+  ]
+}
+

@@ -1,0 +1,26 @@
+{
+    "default_outbound": -1,
+    "id": 0,
+    "name": "Default",
+    "rules": [
+        {
+            "actionType": "hijack-dns",
+            "invert": false,
+            "ip_is_private": false,
+            "ip_version": "",
+            "name": "Route DNS",
+            "network": "",
+            "noDrop": false,
+            "outboundID": -2,
+            "override_address": "",
+            "override_port": 0,
+            "protocol": "dns",
+            "rejectMethod": "",
+            "simple_action": 1835101730,
+            "sniffOverrideDest": false,
+            "source_ip_is_private": false,
+            "strategy": "",
+            "type": 0
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+2025-10-02 13:11:24.905 [info] (Client) Pylance client (2025.8.3) started with python extension (Unknown)
+2025-10-02 13:11:25.692 [info] (3520) Server root directory: file:///home/pixel_loop/.vscode/extensions/ms-python.vscode-pylance-2025.8.3/dist
+2025-10-02 13:11:25.693 [info] (3520) Pylance language server 2025.8.3 (pyright version 1.1.405, commit d64f3fa0) starting
+2025-10-02 13:11:25.710 [info] (3520) Starting service instance "<default>" for workspace ""
+2025-10-02 13:11:25.722 [error] (3520) Failed to generate authorization header for MCP server. Not starting server.
+2025-10-02 13:11:25.722 [info] Failed to get authorization header for Pylance MCP server. MCP server disabled.
+2025-10-02 13:11:25.745 [info] (3520) No include entries specified; assuming /<default workspace root>
+2025-10-02 13:11:25.745 [info] (3520) Auto-excluding **/node_modules
+2025-10-02 13:11:25.745 [info] (3520) Auto-excluding **/__pycache__
+2025-10-02 13:11:25.745 [info] (3520) Auto-excluding **/.*
+2025-10-02 13:11:25.782 [info] (3520) Settings have not changed. Skipping update.
+2025-10-02 13:11:25.869 [error] (3520) File or directory "/<default workspace root>" does not exist.
+2025-10-02 13:11:25.870 [info] (3520) No source files found.
+2025-10-02 13:11:26.256 [info] (3520) BG: Priority queue background worker(2) root directory: file:///home/pixel_loop/.vscode/extensions/ms-python.vscode-pylance-2025.8.3/dist
+2025-10-02 13:11:26.257 [info] (3520) BG: Priority queue background worker(2) started

@@ -1,0 +1,48 @@
+{
+    "bean": {
+        "_v": 0,
+        "addr": "91.132.59.81",
+        "brutal_speed": 0,
+        "c_cfg": "",
+        "c_out": "",
+        "enable_brutal": false,
+        "flow": "xtls-rprx-vision",
+        "mux": 0,
+        "name": "vless-91.132.59.81",
+        "pass": "e4a95e50-bc67-4ede-89ad-20ef3d26b18d",
+        "port": 1192,
+        "stream": {
+            "alpn": "",
+            "cert": "",
+            "ed_len": 0,
+            "ed_name": "",
+            "h_type": "",
+            "headers": "",
+            "host": "",
+            "insecure": false,
+            "method": "",
+            "net": "tcp",
+            "pac_enc": "xudp",
+            "path": "",
+            "pbk": "G5hwkD5YYYbXuwfygD7nJARkU-_m0UpSb4j8Gdae2ls",
+            "sec": "tls",
+            "sid": "91d3f78f94dcfbc5",
+            "sni": "github.com",
+            "tls_frag": false,
+            "tls_frag_fall_delay": "",
+            "tls_record_frag": false,
+            "utls": "firefox"
+        }
+    },
+    "dl": "",
+    "gid": 0,
+    "id": 0,
+    "report": "",
+    "traffic": {
+        "dl": 230085608481,
+        "ul": 2055188155
+    },
+    "type": "vless",
+    "ul": "",
+    "yc": 0
+}

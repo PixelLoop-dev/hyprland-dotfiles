@@ -1,0 +1,33 @@
+2025-10-21 00:36:50.893 [info] Starting Python Locator /home/pixel_loop/.vscode/extensions/ms-python.python-2025.16.0-linux-x64/python-env-tools/bin/pet server
+2025-10-21 00:36:50.909 [info] Discovered env: /home/pixel_loop/projects/TelegramFileSharingBot/venv/bin/python
+2025-10-21 00:36:50.911 [info] Discovered env: /bin/python
+2025-10-21 00:36:50.911 [info] Discovered env: /usr/bin/python
+2025-10-21 00:36:50.911 [info] Env ("/sbin/python") in Path resolved as ResolvedPythonEnv { executable: "/sbin/python", prefix: "/usr", version: "3.13.7.final.0", is64_bit: true, symlinks: Some(["/sbin/python"]) } and reported as Some(GlobalPaths)
+2025-10-21 00:36:50.911 [info] Discovered env: /sbin/python
+2025-10-21 00:36:50.911 [info] Env ("/usr/sbin/python") in Path resolved as ResolvedPythonEnv { executable: "/usr/sbin/python", prefix: "/usr", version: "3.13.7.final.0", is64_bit: true, symlinks: Some(["/usr/sbin/python"]) } and reported as Some(GlobalPaths)
+2025-10-21 00:36:50.911 [info] Discovered env: /usr/sbin/python
+2025-10-21 00:36:50.912 [info] Env ("/sbin/python3") in Path resolved as ResolvedPythonEnv { executable: "/sbin/python3", prefix: "/usr", version: "3.13.7.final.0", is64_bit: true, symlinks: Some(["/sbin/python3"]) } and reported as Some(GlobalPaths)
+2025-10-21 00:36:50.912 [info] Discovered env: /sbin/python3
+2025-10-21 00:36:50.912 [info] Env ("/usr/sbin/python3") in Path resolved as ResolvedPythonEnv { executable: "/usr/sbin/python3", prefix: "/usr", version: "3.13.7.final.0", is64_bit: true, symlinks: Some(["/usr/sbin/python3"]) } and reported as Some(GlobalPaths)
+2025-10-21 00:36:50.912 [info] Discovered env: /usr/sbin/python3
+2025-10-21 00:36:50.912 [info] Env ("/sbin/python3.13") in Path resolved as ResolvedPythonEnv { executable: "/sbin/python3.13", prefix: "/usr", version: "3.13.7.final.0", is64_bit: true, symlinks: Some(["/sbin/python3.13"]) } and reported as Some(GlobalPaths)
+2025-10-21 00:36:50.912 [info] Discovered env: /sbin/python3.13
+2025-10-21 00:36:50.912 [info] Env ("/usr/sbin/python3.13") in Path resolved as ResolvedPythonEnv { executable: "/usr/sbin/python3.13", prefix: "/usr", version: "3.13.7.final.0", is64_bit: true, symlinks: Some(["/usr/sbin/python3.13"]) } and reported as Some(GlobalPaths)
+2025-10-21 00:36:50.912 [info] Discovered env: /usr/sbin/python3.13
+2025-10-21 00:36:50.913 [info] Locator Conda took 107.345977ms
+2025-10-21 00:36:50.913 [info] Locator Homebrew took 119.39µs
+2025-10-21 00:36:50.913 [info] Locator LinuxGlobal took 109.69582ms
+2025-10-21 00:36:50.913 [info] Locator PipEnv took 22.769µs
+2025-10-21 00:36:50.913 [info] Locator Pixi took 40.84µs
+2025-10-21 00:36:50.913 [info] Locator Poetry took 207.098µs
+2025-10-21 00:36:50.913 [info] Locator PyEnv took 300.49µs
+2025-10-21 00:36:50.913 [info] Locator Venv took 37.131µs
+2025-10-21 00:36:50.913 [info] Locator VirtualEnv took 146.39µs
+2025-10-21 00:36:50.913 [info] Locator VirtualEnvWrapper took 19.069µs
+2025-10-21 00:36:50.913 [info] Locator GlobalVirtualEnvs took 130.346µs
+2025-10-21 00:36:50.913 [info] Locator Locators took 112.324049ms
+2025-10-21 00:36:50.913 [info] Locator Path took 170.742549ms
+2025-10-21 00:36:50.913 [info] Locator Workspaces took 30.192201ms
+2025-10-21 00:36:50.913 [info] Refresh completed in 171ms
+2025-10-21 00:36:50.914 [info] Resolved Python Environment /bin/python
+2025-10-21 00:36:51.119 [info] Resolved Python Environment /home/pixel_loop/projects/TelegramFileSharingBot/venv/bin/python

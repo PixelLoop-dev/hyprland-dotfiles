@@ -1,0 +1,30 @@
+2025-10-21 00:11:19.493 [info] [aebc6443-996d-45c2-90f0-388ff96faa56] Native Broker is only available on Windows
+2025-10-21 00:11:19.551 [info] [getSessions] [all] starting
+2025-10-21 00:11:19.551 [info] [getSessions] [all] returned 0 session(s)
+2025-10-21 00:11:19.551 [info] [getSessions] [all] starting
+2025-10-21 00:11:19.551 [info] [getSessions] [all] returned 0 session(s)
+2025-10-21 00:11:19.551 [info] [getSessions] [all] starting
+2025-10-21 00:11:19.551 [info] [getSessions] [all] returned 0 session(s)
+2025-10-21 00:11:19.551 [info] [getSessions] [email offline_access openid profile] starting
+2025-10-21 00:11:19.551 [info] [aebc6443-996d-45c2-90f0-388ff96faa56] Native Broker is only available on Windows
+2025-10-21 00:11:19.593 [info] [getSessions] [email offline_access openid profile] returned 0 session(s)
+2025-10-21 00:11:20.555 [info] [getSessions] [all] starting
+2025-10-21 00:11:20.555 [info] [getSessions] [all] returned 0 session(s)
+2025-10-21 00:11:20.555 [info] [getSessions] [all] starting
+2025-10-21 00:11:20.555 [info] [getSessions] [all] returned 0 session(s)
+2025-10-21 00:11:20.559 [info] [getSessions] [all] starting
+2025-10-21 00:11:20.559 [info] [getSessions] [all] returned 0 session(s)
+2025-10-21 00:11:21.788 [info] [getSessions] [all] starting
+2025-10-21 00:11:21.788 [info] [getSessions] [all] returned 0 session(s)
+2025-10-21 00:11:21.858 [info] [getSessions] [all] starting
+2025-10-21 00:11:21.858 [info] [getSessions] [all] returned 0 session(s)
+2025-10-21 00:11:24.025 [info] [getSessions] [499b84ac-1321-427f-aa17-267ca6975798/.default offline_access] starting
+2025-10-21 00:11:24.025 [info] [getSessions] [499b84ac-1321-427f-aa17-267ca6975798/.default offline_access] returned 0 session(s)
+2025-10-21 00:11:25.184 [info] [getSessions] [499b84ac-1321-427f-aa17-267ca6975798/.default offline_access] starting
+2025-10-21 00:11:25.184 [info] [getSessions] [499b84ac-1321-427f-aa17-267ca6975798/.default offline_access] returned 0 session(s)
+2025-10-21 00:11:26.489 [info] [getSessions] [all] starting
+2025-10-21 00:11:26.489 [info] [getSessions] [all] returned 0 session(s)
+2025-10-21 00:12:16.335 [info] [getSessions] [499b84ac-1321-427f-aa17-267ca6975798/.default offline_access] starting
+2025-10-21 00:12:16.335 [info] [getSessions] [499b84ac-1321-427f-aa17-267ca6975798/.default offline_access] returned 0 session(s)
+2025-10-21 00:12:16.815 [info] [getSessions] [499b84ac-1321-427f-aa17-267ca6975798/.default offline_access] starting
+2025-10-21 00:12:16.815 [info] [getSessions] [499b84ac-1321-427f-aa17-267ca6975798/.default offline_access] returned 0 session(s)

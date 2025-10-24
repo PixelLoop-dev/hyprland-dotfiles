@@ -1,0 +1,14 @@
+{
+  "environment": {
+    "executable": "/home/pixel_loop/scripts/tetris/vevn/bin/python",
+    "prefix": "/home/pixel_loop/scripts/tetris/vevn",
+    "version": "3.13.7.final.0",
+    "is64Bit": true,
+    "symlinks": [
+      "/home/pixel_loop/scripts/tetris/vevn/bin/python",
+      "/home/pixel_loop/scripts/tetris/vevn/bin/python3",
+      "/home/pixel_loop/scripts/tetris/vevn/bin/python3.13"
+    ]
+  },
+  "symlinks": []
+}

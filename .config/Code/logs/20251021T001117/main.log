@@ -1,0 +1,22 @@
+2025-10-21 00:11:17.398 [info] update#setState idle
+2025-10-21 00:11:22.357 [warning] [perf] profiling STARTED 252c928b-a6fe-422c-88e0-e8844813e950
+2025-10-21 00:11:27.388 [warning] [perf] profiling DONE 252c928b-a6fe-422c-88e0-e8844813e950
+2025-10-21 00:11:27.582 [warning] [perf] profiling STARTED 252c928b-a6fe-422c-88e0-e8844813e950
+2025-10-21 00:11:32.599 [warning] [perf] profiling DONE 252c928b-a6fe-422c-88e0-e8844813e950
+2025-10-21 00:11:32.746 [warning] [perf] profiling STARTED 252c928b-a6fe-422c-88e0-e8844813e950
+2025-10-21 00:11:37.796 [warning] [perf] profiling DONE 252c928b-a6fe-422c-88e0-e8844813e950
+2025-10-21 00:11:47.397 [info] update#setState checking for updates
+2025-10-21 00:11:47.483 [info] update#setState available for download
+2025-10-21 00:12:55.552 [warning] [perf] profiling STARTED 74e3a0a7-0773-441d-ab2d-cf1bfdc977f8
+2025-10-21 00:13:00.581 [warning] [perf] profiling DONE 74e3a0a7-0773-441d-ab2d-cf1bfdc977f8
+2025-10-21 00:13:00.734 [warning] [perf] profiling STARTED 74e3a0a7-0773-441d-ab2d-cf1bfdc977f8
+2025-10-21 00:13:05.756 [warning] [perf] profiling DONE 74e3a0a7-0773-441d-ab2d-cf1bfdc977f8
+2025-10-21 00:13:05.907 [warning] [perf] profiling STARTED 74e3a0a7-0773-441d-ab2d-cf1bfdc977f8
+2025-10-21 00:13:10.928 [warning] [perf] profiling DONE 74e3a0a7-0773-441d-ab2d-cf1bfdc977f8
+2025-10-21 00:15:48.529 [warning] [perf] profiling STARTED 854b4a6c-7185-4b74-9d39-363471d5e6d8
+2025-10-21 00:15:53.558 [warning] [perf] profiling DONE 854b4a6c-7185-4b74-9d39-363471d5e6d8
+2025-10-21 00:15:53.721 [warning] [perf] profiling STARTED 854b4a6c-7185-4b74-9d39-363471d5e6d8
+2025-10-21 00:15:58.752 [warning] [perf] profiling DONE 854b4a6c-7185-4b74-9d39-363471d5e6d8
+2025-10-21 00:15:58.904 [warning] [perf] profiling STARTED 854b4a6c-7185-4b74-9d39-363471d5e6d8
+2025-10-21 00:16:03.925 [warning] [perf] profiling DONE 854b4a6c-7185-4b74-9d39-363471d5e6d8
+2025-10-21 00:32:09.007 [info] Extension host with pid 32032 exited with code: 0, signal: unknown.
