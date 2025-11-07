@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo Installing pacman packages
-sudo pacman -S --needed --noconfirm git kitty firefox wofi obs-studio fish rofi steam nwg-look nvim fastfetch spotify-launcher pavucontrol btop cava swww telegram-desktop openrgb nautilus wine hyprshot hyprpicker
+sudo pacman -S --needed --noconfirm git kitty firefox wofi obs-studio fish rofi nwg-look nvim fastfetch spotify-launcher pavucontrol btop cava swww telegram-desktop openrgb nautilus wine hyprshot hyprlock hyprpicker
 
 
 echo Installing yay
@@ -11,7 +11,7 @@ cd .. && rm -rf yay
 
 
 echo Installing yay packages
-yay -S --needed --noconfirm vesktop nekoray waypaper waybar-cava visual-studio-code-bin
+yay -S --needed --noconfirm vesktop-bin throne waypaper waybar-cava visual-studio-code-bin zen-browser-bin
 
 
 echo Installing fonts
@@ -21,10 +21,10 @@ sudo pacman -S --needed --noconfirm noto-fonts noto-fonts-cjk noto-fonts-emoji t
 echo Copying configs
 mkdir -p ~/.config ~/.themes ~/.icons ~/.Wallpapers
 
-cp -rn .themes/* ~/.themes/
-cp -rn .icons/* ~/.icons/
-cp -rn .config/* ~/.config/
-cp -rn .Wallpapers/* ~/.Wallpapers/
+cp -rf .themes/* ~/.themes/
+cp -rf .icons/* ~/.icons/
+cp -rf .config/* ~/.config/
+cp -rf .Wallpapers/* ~/.Wallpapers/
 
 
 echo Changing shell to fish
