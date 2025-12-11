@@ -1,0 +1,58 @@
+{
+  "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
+
+  "logo": {
+    "type": "small",
+    // "source": "~/.config/fastfetch/logo.txt",
+
+    "color": {
+      "1": "#D9CECC",
+      "2": "#D9CECC"
+    },
+
+    "height": 1,
+    "width": 1,
+    "padding": {
+      "top": 1,
+      "left": 1
+    }
+  },
+
+  "display": {
+    "separator": " - ",
+    "color": {
+      "output": "#EFF0F0",
+      "separator": "#EFF0F0",
+      "keys": "#D9CECC"
+    }
+  },
+
+  "modules": [
+
+    {
+      "type": "title",
+      "color": {
+        "user": "#D9CECC",
+        "at": "#EFF0F0",
+        "host": "#EFF0F0"
+      }
+    },
+
+    "separator",
+
+    "os",
+    "wm",
+    "uptime",
+
+    "break",
+
+    "disk",
+    {
+      "type": "weather",
+      "location": "Samara"
+    },
+
+    "break"
+
+  ]
+}

@@ -1,0 +1,16 @@
+show=drun
+width=30%
+height=10%
+normal_window=true
+columns=5
+location=center
+gtk-dark=true
+allow_images=true
+image_size=32
+insensitive=true
+allow_markup=true
+no_actions=true
+orientation=vertical
+halign=fill
+content_halign=fill
+matching=fuzzy
