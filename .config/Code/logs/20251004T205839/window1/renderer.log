@@ -1,6 +1,0 @@
-2025-10-04 20:58:40.372 [info] Started local extension host with pid 16167.
-2025-10-04 20:58:40.817 [info] Creating lazy extension host (LocalWebWorker). Reason: contains 1 extension(s): pomdtr.excalidraw-editor.
-2025-10-04 20:58:41.497 [error] [sidthesloth.html5-boilerplate]: Unknown language in `contributes.html5-boilerplate.language`. Provided value: njk
-2025-10-04 20:58:41.498 [error] [sidthesloth.html5-boilerplate]: Unknown language in `contributes.html5-boilerplate.language`. Provided value: django-html
-2025-10-04 20:58:42.087 [info] Settings Sync: Account status changed from uninitialized to unavailable
-2025-10-04 20:58:43.023 [info] [perf] Render performance baseline is 16ms
