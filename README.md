@@ -25,6 +25,7 @@
 ![gallery](preview/1.png)
 ![gallery](preview/2.png)
 ![gallery](preview/3.png)
+![gallery](preview/4.png)
 <!--
 ## :moyai: Installation
 Clone this repo
