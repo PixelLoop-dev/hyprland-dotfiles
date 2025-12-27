@@ -1,6 +1,6 @@
 show=drun
-width=45%
-height=40%
+width=35%
+height=30%
 prompt=Search...
 normal_window=true
 location=center

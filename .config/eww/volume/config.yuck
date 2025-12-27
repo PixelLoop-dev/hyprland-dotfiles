@@ -1,0 +1,13 @@
+# ~/.config/eww/eww.yuck
+window my_bar:
+  geometry: "0x30+0+0"      # ширина x высота + x + y
+  layer: top
+  background: "#222222aa"
+  widget:
+    box:
+      orientation: horizontal
+      children:
+        - text : "Hello, World!"
+        - button:
+            label: "Click me"
+            on-click: "notify-send 'Button clicked'"

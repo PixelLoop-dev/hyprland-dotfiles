@@ -1,0 +1,18 @@
+format = "$directory$character"
+add_newline = false
+
+[os]
+disabled = false
+style = "bold #D9CECC" 
+
+[os.symbols]
+Arch = "Hiiiii"
+
+[directory]
+style = "bold #D9CECC"
+truncation_length = 3
+truncate_to_repo = false
+
+[character]
+success_symbol = "[➜](bold #D9CECC)"
+error_symbol   = "[➜](#f7768e)"
