@@ -19,6 +19,7 @@
     "network": {
         "interface": "wlan0",
         "interval": 2,
+        "max-width": 10,
         "format": "{ifname} ⇣{bandwidthDownBits} ⇡{bandwidthUpBits}",
         "format-wifi": "⇣{bandwidthDownBits} ⇡{bandwidthUpBits}",
         "format-disconnected": "offline"
@@ -33,7 +34,7 @@
 
     "hyprland/workspaces": {
         "format": "{icon}",
-        "tooltip": false,
+        "tooltip": true,
         "format-icons": {
             "1": "",
             "2": "",
@@ -75,21 +76,22 @@
     },
 
     "cava": {
-        "framerate": 30,
+        "framerate": 60,
+        "bars": 14,
+        "method": "pipewire",
         "autosens": 1,
-        "sensitivity": 6,
-        "bars":12,
+        "sensitivity": 7,
+        "colors": ["#E0D1CF"],
         "lower_cutoff_freq": 50,
         "higher_cutoff_freq": 10000,
-        "method": "pipewire",
         "source": "auto",
         "stereo": false,
-        "reverse": false,
+        "reverse": true ,
         "bar_delimiter": 0,
-        "monstercat": true,
+        "monstercat": false,
         "waves": false,
-        "noise_reduction": 0.77,
-        "input_delay": 0,
+        "noise_reduction": 0.25,
+        "input_delay": 2,
         "format-icons" : ["▁", "▂", "▃", "▄", "▅", "▆", "▇", "█" ]
     },
 
@@ -99,8 +101,11 @@
     },
 
     "hyprland/language": {
-        "format" :"  {short}",
-        "min-length": 6
+        "format" :"{}",
+        "min-length": 6,
+        "format-ru": "  RUS",
+        "format-en": "  ENG",
+        "on-click": "hyprctl switchxkblayout all next"
     },
 
     "custom/power":{

@@ -11,16 +11,9 @@ window#waybar {
     background-color: transparent;
 }
 
-
 #custom-launcher, #network, #cpu, #memory, #custom-gpu, #workspaces, #tray, #cava, #language, #pulseaudio, #custom-power, #clock {
-    margin-top: 10px;
-    margin-left: 8px;
-    margin-bottom: 0px;
-    padding-top: 5px;
-    padding-bottom: 5px;
-    padding-left: 15px;
-    padding-right: 15px;
-    transition: none;
+    margin: 10px 0 0 10px;
+    padding: 5px 15px;
     background: rgba(25, 29, 33, 0.6); 
     color: #D9CECC;
     transition: 0.3s;
@@ -32,17 +25,14 @@ window#waybar {
     transition: 0.3s;
 }
 
-#workspaces button:hover {
-    background: transparent;
-    color: #D9CECC;
-}
-
-#custom-launcher {
-    padding-left: 17px;
+#workspaces button.active {
+    color: #e0d1cf;
+    background: rgba(25, 29, 33, 0.6); 
 }
 
 #custom-power {
-    padding-left: 11px;
     margin-right: 15px;
 }
+
+
 
